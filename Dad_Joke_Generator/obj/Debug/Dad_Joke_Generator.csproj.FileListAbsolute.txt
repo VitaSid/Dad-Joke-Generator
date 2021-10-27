@@ -1,0 +1,7 @@
+C:\Users\vitas\source\repos\Dad_Joke_Generator\Dad_Joke_Generator\bin\Debug\Dad_Joke_Generator.exe.config
+C:\Users\vitas\source\repos\Dad_Joke_Generator\Dad_Joke_Generator\bin\Debug\Dad_Joke_Generator.exe
+C:\Users\vitas\source\repos\Dad_Joke_Generator\Dad_Joke_Generator\bin\Debug\Dad_Joke_Generator.pdb
+C:\Users\vitas\source\repos\Dad_Joke_Generator\Dad_Joke_Generator\obj\Debug\Dad_Joke_Generator.csproj.AssemblyReference.cache
+C:\Users\vitas\source\repos\Dad_Joke_Generator\Dad_Joke_Generator\obj\Debug\Dad_Joke_Generator.csproj.CoreCompileInputs.cache
+C:\Users\vitas\source\repos\Dad_Joke_Generator\Dad_Joke_Generator\obj\Debug\Dad_Joke_Generator.exe
+C:\Users\vitas\source\repos\Dad_Joke_Generator\Dad_Joke_Generator\obj\Debug\Dad_Joke_Generator.pdb
